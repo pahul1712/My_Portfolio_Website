@@ -303,7 +303,8 @@ sections:
           borderWidth: 1
           borderRadius: large
       type: FormBlock
-      submitButton:
+    
+    submitButton:
         type: SubmitButtonFormControl
         label: Submit
         showIcon: false
