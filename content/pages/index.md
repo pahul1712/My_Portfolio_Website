@@ -5,7 +5,7 @@ sections:
   # Hero Section
   - type: GenericSection
     title:
-      text: Hi, I'm Pahuldeep Singh Dhingra - Data Scientist|
+      text: "Hi, I'm Pahuldeep Singh Dhingra - Data Scientist"
       color: text-dark
       type: TitleBlock
     subtitle: MS in Data Science & Analytics | Aspiring Data Scientist
