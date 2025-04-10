@@ -269,6 +269,7 @@ sections:
       - LinkedIn: [Pahuldeep Singh Dhingra](https://www.linkedin.com/in/pahuldeepsing/)
       - GitHub: [pahuldeep](https://github.com/pahul1712)
     media:
+      type: FormBlock
       fields:
         - name: name
           label: Name
@@ -302,19 +303,16 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-      type: FormBlock
-    
     submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
+          type: SubmitButtonFormControl
+          label: Submit
+          showIcon: false
+          icon: arrowRight
+          iconPosition: right
+          style: primary
+          elementId: null
     elementId: contact
     colors: bg-light-fg-dark
-    type: GenericSection
 
 seo:
   metaTitle: Pahuldeep Singh Dhingra | Data Science Portfolio
